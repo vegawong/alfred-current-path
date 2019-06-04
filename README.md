@@ -1,6 +1,6 @@
 # CURRENT PATH ALFRED WORKFLOW
 
-get the front finder window open path
+Gets the path opened by the current Finder window
 
 
 - active the alfred and press the keyword `pwd`
