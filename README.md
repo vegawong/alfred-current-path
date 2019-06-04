@@ -1,8 +1,9 @@
-#CURRENT PATH ALFRED WORKFLOW
+# CURRENT PATH ALFRED WORKFLOW
 
 get the front finder window open path
 
-keyowrd: pwd
+
+- active the alfred and press the keyword `pwd`
 
 - press `enter` to copy the path
 
